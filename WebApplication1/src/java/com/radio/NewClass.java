@@ -11,4 +11,6 @@ package com.radio;
  */
 public class NewClass {
     
+    private int id;
+    
 }
